@@ -1,0 +1,123 @@
+competition_number,post_number,job_type,city,research_institute,domain,job_category,remote_work,education_level,english_proficiency,has_r,has_python,has_ml,it_skills,stat_methods,has_formation,has_encadrement,source_file
+40,1,IR,aubervilliers,Unité d'appui et de recherche de Condorcet,Sciences humaines et sociales,D,1,M,C1,0,0,1,1,1,1,1,page_040.txt
+100,1,IE,st martin heres,Institut des sciences de la Terre,Sciences chimiques et science des matériaux,B,0,M,B1,0,0,1,0,0,1,1,page_122.txt
+55,1,IR,paris,Laboratoire d'Imagerie Biomédicale,"Informatique, statistiques et calcul scientifique",E,1,M,NaN,0,1,1,1,1,1,1,page_055.txt
+72,1,IR,pessac,AUSONIUS - Institut de recherche sur l'Antiquité et le Moyen Age,"Culture, communication, production et diffusion des savoirs",F,0,M,B2,0,0,1,1,1,1,1,page_072.txt
+132,1,IE,paris,Direction d'appui aux partenariats publics,"Informatique, statistiques et calcul scientifique",E,1,M,NaN,1,1,1,1,1,1,1,page_090.txt
+76,2,IR,paris,Mission pour l'expertise scientifique,Gestion et pilotage,J,0,M,B2,0,0,1,1,0,1,1,page_076.txt
+92,2,IE,plouzane,Laboratoire des sciences de l'environnement marin,Sciences chimiques et science des matériaux,B,0,M,B1,1,0,1,1,1,1,1,page_114.txt
+16,1,IR,illkirch graffenstaden,Laboratoire de Bioimagerie et Pathologies,Sciences chimiques et science des matériaux,B,0,D,B2,0,0,1,1,1,1,1,page_016.txt
+52,1,IR,orsay,Institut du Développement et des Ressources en Informatique Scientifique,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,1,1,page_052.txt
+127,3,IE,paris,CNRS Nucléaire & Particules,"Informatique, statistiques et calcul scientifique",E,1,M,B2,0,1,1,1,1,1,1,page_086.txt
+116,1,IE,"les espaces et les sociétés, toulouse",Travaux et Recherches archéologiques sur les cultures,Sciences humaines et sociales,D,0,M,B1,0,0,1,1,0,1,1,page_095.txt
+46,1,IR,"de lenvironnement et des sociétés, mont st aignan",Identité et Différenciation de l'Espace,Sciences humaines et sociales,D,0,M,NaN,1,1,1,1,1,1,1,page_046.txt
+95,1,IE,mulhouse,Institut de Science des Matériaux de Mulhouse,Sciences chimiques et science des matériaux,B,1,D,B1,0,0,1,1,0,1,1,page_117.txt
+14,1,IR,strasbourg,Institut Pluridisciplinaire Hubert Curien,Sciences chimiques et science des matériaux,B,1,M,B2,0,0,1,1,0,0,1,page_014.txt
+45,1,IR,paris,LABORATOIRE D'ECONOMIE DE DAUPHINE,Sciences humaines et sociales,D,0,M,NaN,1,1,1,1,1,1,1,page_045.txt
+133,1,IE,paris,Direction Europe et international,"Informatique, statistiques et calcul scientifique",E,0,M,B1,1,1,1,1,1,1,1,page_091.txt
+25,1,IR,illkirch graffenstaden,Plate-forme de chimie biologique intégrative de Strasbourg,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,NaN,0,1,1,1,0,1,1,page_025.txt
+54,1,IR,orsay,Institut du Développement et des Ressources en Informatique Scientifique,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,0,1,1,1,1,1,page_054.txt
+34,1,IR,guyancourt,Observatoire des sciences de l'univers de l'UVSQ,Sciences de l'ingénieur et instrumentation scientifique,C,1,M,B2,0,0,1,1,1,0,1,page_034.txt
+44,1,IR,prague,Centre français de recherche en sciences sociales à Prague,Sciences humaines et sociales,D,0,M,C1,0,0,1,1,1,1,1,page_044.txt
+113,1,IE,gif sur yvette,Division technique de l'INSU,Sciences de l'ingénieur et instrumentation scientifique,C,1,M,NaN,0,1,1,1,0,1,1,page_111.txt
+125,1,IE,toulouse,Institut de Mathématiques de Toulouse,"Informatique, statistiques et calcul scientifique",E,1,M,B1,0,1,1,1,1,1,1,page_084.txt
+93,1,IE,paris,Laboratoire de Chimie et Biochimie Pharmacologiques et Toxicologiques,Sciences chimiques et science des matériaux,B,0,M,B1,0,0,1,0,0,0,1,page_115.txt
+77,1,IR,paris,Institut de biologie physico-chimique,Gestion et pilotage,J,0,M,B2,0,0,1,1,0,0,1,page_077.txt
+10,1,IR,lyon,Institut de génomique fonctionnelle de Lyon,"Sciences du vivant, de la terre et de l'environnement",A,0,M,C1,1,0,1,1,0,0,1,page_010.txt
+111,1,IE,"la biomédecine et lénergie, gif sur yvette",Nanosciences et innovation pour les matériaux,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,0,1,1,0,1,0,page_109.txt
+58,1,IR,orsay,Observatoire des Sciences de l'Univers de l'Université Paris-Saclay - UAR,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,1,1,page_058.txt
+131,1,IE,paris,Direction des ressources humaines,"Informatique, statistiques et calcul scientifique",E,1,M,NaN,1,0,1,1,1,1,1,page_089.txt
+21,3,IR,grenoble,Institut NEEL,Sciences chimiques et science des matériaux,B,0,M,B2,0,0,1,1,0,1,1,page_021.txt
+36,1,IR,villeurbanne,Institut de Physique des deux Infinis de Lyon,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,C1,0,0,1,1,0,0,1,page_036.txt
+128,1,IE,palaiseau,Institut Interdisciplinaire de l'Innovation,Sciences humaines et sociales,D,0,M,NaN,1,1,1,1,1,1,1,page_098.txt
+17,1,IR,orleans,Conditions Extrêmes et Matériaux : Haute température et Irradiation,Sciences chimiques et science des matériaux,B,0,M,B2,0,0,1,1,0,0,1,page_017.txt
+61,1,IR,marseille,Centre de Physique des Particules de Marseille,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_061.txt
+18,2,IR,gif sur yvette,Institut photonique d'analyse non-destructive européen des matériaux anciens,Sciences chimiques et science des matériaux,B,0,M,B2,1,1,1,1,1,1,1,page_018.txt
+74,1,IR,montpellier,DATA TERRA,"Culture, communication, production et diffusion des savoirs",F,1,M,NaN,0,0,1,1,0,1,1,page_074.txt
+110,2,IE,caen,Grand Accélérateur National d'Ions Lourds,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,1,1,1,0,1,1,page_108.txt
+28,1,IR,gif sur yvette,Laboratoire de Mécanique Paris-Saclay,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,0,1,1,0,1,1,page_028.txt
+56,1,IR,evry courcouronnes,Génomique Métabolique,"Informatique, statistiques et calcul scientifique",E,1,M,NaN,0,0,1,1,1,1,1,page_056.txt
+69,1,IR,compiegne,Heuristique et Diagnostic des Systèmes Complexes,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,1,1,page_069.txt
+48,1,IR,paris,Centre Léon Robin de recherche sur la pensée antique,Sciences humaines et sociales,D,0,M,B1,0,0,1,1,0,0,1,page_048.txt
+8,1,IR,palaiseau,Centre de Nanosciences et de Nanotechnologies,"Sciences du vivant, de la terre et de l'environnement",A,0,M,B1,0,0,1,1,0,1,0,page_008.txt
+53,3,IR,villeurbanne,TGIR Huma-Num,"Informatique, statistiques et calcul scientifique",E,1,M,B2,0,1,1,1,1,1,1,page_053.txt
+104,1,IE,nice,Institut de physique de Nice,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,0,1,1,0,1,1,page_102.txt
+9,1,IR,marseille,Centre de résonance magnétique biologique et médicale,"Sciences du vivant, de la terre et de l'environnement",A,0,M,B2,1,1,1,1,0,1,1,page_009.txt
+37,1,IR,marseille,Institut matériaux microélectronique nanosciences de Provence,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,1,1,1,0,0,1,page_037.txt
+47,1,IR,paris,Institut d'histoire du droit Jean Gaudemet,Sciences humaines et sociales,D,1,M,B2,0,0,1,1,0,1,1,page_047.txt
+41,1,IR,nantes,Maison des sciences de l'homme Ange Guépin,Sciences humaines et sociales,D,0,D,B2,1,1,1,1,1,1,1,page_041.txt
+64,1,IR,villefranche sur mer,Laboratoire d'océanographie de Villefranche,"Informatique, statistiques et calcul scientifique",E,1,M,B2,1,1,1,1,1,1,1,page_064.txt
+122,1,IE,vandoeuvre les nancy,Laboratoire de Physique et Chimie Théoriques,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,0,1,page_081.txt
+7,1,IR,marseille,Institut de neurophysiopathologie,"Sciences du vivant, de la terre et de l'environnement",A,0,M,B2,0,0,1,1,0,0,1,page_007.txt
+70,2,IR,orsay,Laboratoire de physique des 2 infinis - Irène Joliot-Curie,"Informatique, statistiques et calcul scientifique",E,0,M,B2,1,1,1,1,1,1,1,page_070.txt
+43,1,IR,nice,Maison des Sciences de l'Homme et de la Société Sud-Est,Sciences humaines et sociales,D,1,M,B2,0,0,1,0,1,1,1,page_043.txt
+1,3,IR,"lecologie et lenvironnement, paris",Données de recherche pour l'Histoire Naturelle,"Sciences du vivant, de la terre et de l'environnement",A,1,D,B2,1,1,1,1,1,1,1,page_001.txt
+4,1,IR,strasbourg,Institut de biologie moléculaire des plantes,"Sciences du vivant, de la terre et de l'environnement",A,1,D,B2,1,1,1,1,0,1,1,page_004.txt
+39,3,IR,grenoble,Laboratoire de physique subatomique et de cosmologie,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,1,1,1,1,0,1,1,page_039.txt
+98,1,IE,lyon,Environnements et sociétés de l'orient ancien,Sciences chimiques et science des matériaux,B,0,M,B1,1,0,1,1,1,0,1,page_120.txt
+135,1,IE,st martin heres,Département de Chimie Moléculaire,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_093.txt
+12,1,IR,toulouse,Laboratoire de chimie de coordination,Sciences chimiques et science des matériaux,B,0,M,B2,0,0,1,1,0,1,1,page_012.txt
+38,1,IR,toulouse,Institut de Recherche en Astrophysique et planétologie,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,1,1,1,0,0,0,1,page_038.txt
+91,1,IE,orsay,Institut de Chimie Moléculaire et des Matériaux d'Orsay,Sciences chimiques et science des matériaux,B,0,M,B1,0,0,1,1,0,1,1,page_113.txt
+66,2,IR,paris,UMR-Institut de physique du globe de Paris,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_066.txt
+32,2,IR,paris,Chimie Biologie Innovation,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,1,1,1,0,1,1,page_032.txt
+117,1,IE,"des processus dadaptation et des changements de lespace, avignon",Etudes des structures,Sciences humaines et sociales,D,1,M,B1,1,1,1,1,1,1,1,page_096.txt
+42,1,IR,nanterre,Technologie et Ethnologie des Mondes PréhistoriqueS,Sciences humaines et sociales,D,1,D,C1,1,0,1,1,1,1,1,page_042.txt
+60,1,IR,besancon,Observatoire des sciences de l'univers terre homme environnement temps astronomie Franche-Comté-Bourgogne,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,0,1,page_060.txt
+105,1,IE,marseille,Institut de Recherche sur les Phénomènes Hors Equilibre,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,0,1,1,0,0,1,page_103.txt
+67,1,IR,pessac,Pluridisciplinarité au service de l'observation et de la recherche en environnement et astronomie,"Informatique, statistiques et calcul scientifique",E,0,M,B2,1,1,1,1,1,0,1,page_067.txt
+101,1,IE,marseille,Institut Fresnel,Sciences chimiques et science des matériaux,B,0,M,NaN,0,0,1,1,0,1,1,page_099.txt
+75,1,IR,paris,Délégation Paris-Centre,"Culture, communication, production et diffusion des savoirs",F,1,M,NaN,0,0,1,0,0,1,1,page_075.txt
+51,1,IR,paris,UAR PROGEDO,"Informatique, statistiques et calcul scientifique",E,0,M,B2,1,1,1,1,1,1,1,page_051.txt
+121,4,IE,gradignan,Laboratoire de Physique des 2 infinis - Bordeaux,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_080.txt
+115,1,IE,paris,Laboratoire de Linguistique Formelle,Sciences humaines et sociales,D,0,D,B2,1,0,1,1,1,1,1,page_094.txt
+108,1,IE,st martin heres,Institut de planétologie et d'astrophysique de Grenoble,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,1,1,1,1,0,0,1,page_106.txt
+102,2,IE,"mécanique et énergétique, chasseneuil du poitou",Institut P': Physique et Ingénierie en Matériaux,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,1,1,1,0,1,1,page_100.txt
+35,1,IR,vandoeuvre les nancy,Observatoire Terre et Environnement de Lorraine,Sciences chimiques et science des matériaux,B,0,M,B1,0,0,1,1,0,1,1,page_035.txt
+114,1,IE,nantes,Laboratoire de physique subatomique et des technologies associées,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,0,1,1,0,1,1,page_112.txt
+31,1,IR,orsay,Laboratoire de physique des 2 infinis - Irène Joliot-Curie,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,C1,1,0,1,1,0,0,1,page_031.txt
+65,2,IR,paris,GULLIVER,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_065.txt
+126,1,IE,paris,Relais d'information sur les sciences de la cognition,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,1,1,page_085.txt
+106,1,IE,villeurbanne,Centre d'Énergétique et de Thermique de Lyon,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,NaN,0,0,1,1,0,1,1,page_104.txt
+62,1,IR,aubiere,Laboratoire de Physique de Clermont Auvergne,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_062.txt
+33,1,IR,st aubin,Laboratoire Léon Brillouin,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,0,1,1,0,0,1,page_033.txt
+134,1,IE,aix en provence,Laboratoire Parole et Langage,"Informatique, statistiques et calcul scientifique",E,1,M,B1,1,1,1,1,1,1,1,page_092.txt
+19,1,IR,palaiseau,Laboratoire de physique de la matière condensée,Sciences chimiques et science des matériaux,B,0,M,B2,0,0,1,1,0,1,1,page_019.txt
+20,1,IR,st etienne,Laboratoire Hubert Curien,Sciences chimiques et science des matériaux,B,0,M,NaN,0,0,1,1,0,1,1,page_020.txt
+94,1,IE,mont st aignan,Chimie Organique et Bioorganique : Réactivité et Analyse,Sciences chimiques et science des matériaux,B,0,M,NaN,0,0,1,1,0,1,1,page_116.txt
+27,1,IR,le mans,Laboratoire d'Acoustique de l'Université du Mans,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,0,1,1,0,0,1,page_027.txt
+50,1,IR,"droit, ethique et santé, marseille",Anthropologie bio-culturelle,Sciences humaines et sociales,D,0,M,NaN,0,0,1,1,1,1,1,page_050.txt
+5,1,IR,strasbourg,Institut de Biologie Moléculaire et Cellulaire,"Sciences du vivant, de la terre et de l'environnement",A,0,M,B2,1,1,1,1,1,1,1,page_005.txt
+129,1,IE,paris,Institut des Systèmes Complexes de Paris Île-de-France,"Informatique, statistiques et calcul scientifique",E,1,M,B2,0,1,1,1,1,1,1,page_087.txt
+109,1,IE,villeurbanne,Institut de Physique des deux Infinis de Lyon,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B1,0,0,1,1,0,0,1,page_107.txt
+97,1,IE,versailles,Institut Lavoisier de Versailles,Sciences chimiques et science des matériaux,B,0,M,B1,1,1,1,1,0,1,1,page_119.txt
+130,2,IE,st martin heres,Observatoire des sciences de l'univers de Grenoble,"Informatique, statistiques et calcul scientifique",E,1,M,B2,0,1,1,1,1,1,1,page_088.txt
+3,2,IR,lyon,Santé Lyon-Est - Louis Léopold Ollier,"Sciences du vivant, de la terre et de l'environnement",A,0,D,NaN,1,1,1,1,1,1,1,page_003.txt
+98,1,IE,lyon,Environnements et sociétés de l'orient ancien,Sciences chimiques et science des matériaux,B,0,M,B1,1,0,1,1,1,0,1,page_121.txt
+68,1,IR,nice,OCA-Galilée,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,0,1,1,1,1,1,page_068.txt
+124,1,IE,talence,Institut de mécanique et d'ingénierie,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,0,1,1,1,1,1,page_083.txt
+63,1,IR,villeurbanne,Laboratoire de Biométrie et Biologie Evolutive,"Informatique, statistiques et calcul scientifique",E,1,M,NaN,0,0,1,1,1,1,1,page_063.txt
+49,1,IR,lyon,Institut de Recherche sur l'Architecture Antique,Sciences humaines et sociales,D,0,M,NaN,0,0,1,0,0,1,1,page_049.txt
+11,1,IR,montpellier,Centre d'écologie fonctionnelle et évolutive,"Sciences du vivant, de la terre et de l'environnement",A,0,M,B2,0,0,1,0,0,1,1,page_011.txt
+2,1,IR,paris,Dynamique du noyau,"Sciences du vivant, de la terre et de l'environnement",A,0,M,C1,1,1,1,1,1,1,1,page_002.txt
+123,3,IE,creteil,Laboratoire inter-universitaire des systèmes atmosphèriques,"Informatique, statistiques et calcul scientifique",E,1,M,B2,0,0,1,1,1,1,1,page_082.txt
+103,1,IE,caen,Grand Accélérateur National d'Ions Lourds,Sciences de l'ingénieur et instrumentation scientifique,C,1,M,NaN,0,0,1,0,0,0,1,page_101.txt
+112,1,IE,marseille,Institut universitaire des systèmes thermiques industriels,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,NaN,0,0,1,1,0,1,1,page_110.txt
+119,1,IE,villeurbanne,Centre de Calcul de l'Institut National de Physique Nucléaire et de Physique des Particules,"Informatique, statistiques et calcul scientifique",E,0,M,NaN,0,1,1,1,1,1,1,page_078.txt
+107,1,IE,aix en provence,Centre de Recherche et d'Enseignement des Géosciences de l'Environnement,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,1,1,1,1,0,1,page_105.txt
+26,1,IR,toulouse,Centre de recherche Cerveau et Cognition,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,1,1,1,0,1,1,page_026.txt
+96,1,IE,villeneuve ascq,Unité Matériaux et Transformations,Sciences chimiques et science des matériaux,B,0,M,B1,0,0,1,1,0,1,1,page_118.txt
+71,1,IR,grenoble,Laboratoire de physique subatomique et de cosmologie,"Informatique, statistiques et calcul scientifique",E,1,M,B2,0,0,1,1,1,1,1,page_071.txt
+30,1,IR,st martin heres,Grenoble Images Parole Signal Automatique,Sciences de l'ingénieur et instrumentation scientifique,C,1,M,B2,0,1,1,1,0,1,1,page_030.txt
+23,1,IR,talence,Centre lasers intenses et applications,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,C1,0,1,1,1,0,1,1,page_023.txt
+13,1,IR,villeurbanne,Centre de RMN à Très Hauts Champs de Lyon,Sciences chimiques et science des matériaux,B,0,M,B2,0,0,1,1,0,1,1,page_013.txt
+22,1,IR,paris,Laboratoire Jean Perrin,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,0,1,1,1,1,1,page_022.txt
+15,1,IR,nantes,Laboratoire de physique subatomique et des technologies associées,Sciences chimiques et science des matériaux,B,0,M,C1,1,0,1,1,0,1,1,page_015.txt
+59,1,IR,toulouse,Institut de Recherche en Astrophysique et planétologie,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,1,1,page_059.txt
+118,1,IR,"cultures et sociétés de lantiquité à nos jours, villejuif",Centre de recherche sur le monde iranien : Langues,Sciences humaines et sociales,D,0,M,B2,0,0,1,1,0,1,1,page_097.txt
+29,1,IR,gif sur yvette,Laboratoire des Sciences du Climat et de l'Environnement,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,1,1,1,0,1,1,page_029.txt
+24,1,IR,grenoble,Laboratoire national des champs magnétiques intenses,Sciences de l'ingénieur et instrumentation scientifique,C,0,M,B2,0,1,1,1,1,1,1,page_024.txt
+73,1,IR,plouzane,Institut universitaire européen de la mer,"Culture, communication, production et diffusion des savoirs",F,0,M,B2,1,1,1,1,0,1,1,page_073.txt
+120,1,IE,paris,Direction des ressources humaines,"Informatique, statistiques et calcul scientifique",E,1,M,NaN,0,0,0,1,1,1,1,page_079.txt
+57,1,IR,toulouse,Observatoire Midi-Pyrénées,"Informatique, statistiques et calcul scientifique",E,0,M,B2,0,1,1,1,1,0,1,page_057.txt
+6,1,IR,marseille,Architecture et fonction des macromolécules biologiques,"Sciences du vivant, de la terre et de l'environnement",A,0,M,B2,0,0,1,1,0,0,1,page_006.txt
